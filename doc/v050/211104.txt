@@ -1,0 +1,4 @@
+vue3でvue-memo-expressを書き直す。
+
+routerを忘れている。
+vue add router

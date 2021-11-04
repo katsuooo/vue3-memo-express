@@ -1,0 +1,6 @@
+211104
+vue createでunit test/jestを追加
+
+
+test:unit でjestが走る。
+
